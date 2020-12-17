@@ -3,14 +3,14 @@
 
 </div>
 
-I'm a Freshman Student at Vellore Institute of Technology, Vellore. 
+<h3>I'm a Freshman Student at Vellore Institute of Technology, Vellore. </h3>
 
 ## &#x1f4c8; GitHub Stats
 ![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=priyanshmehta22&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ffff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshmehta22&layout=compact&theme=chartreuse-dark&icon_color=00ffff)
 
 **A Bit More about me:** 
-- 😄 <h2>A Jaipur resident, DOB: 22/12/2002</h2>
+- 😄A Jaipur resident, DOB: 22/12/2002
 - 🌱 I’m currently learning Python.
 <!-- - 🔭 I’m currently working as a freelancer. 
 - 💬 Ask me about my views on the future of Artificial Intelligence and Cyber Security. 
