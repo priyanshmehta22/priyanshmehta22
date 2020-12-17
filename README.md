@@ -1,5 +1,5 @@
 <div align="center">
-<h2>𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! , I'm Priyansh! 👋</h2>
+<h1>𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! , I'm Priyansh Mehta! 👋</h1>
 
 </div>
 
@@ -10,11 +10,11 @@ I'm a Freshman Student at Vellore Institute of Technology, Vellore.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshmehta22&layout=compact&theme=chartreuse-dark&icon_color=00ffff)
 
 **A Bit More about me:** 
-- 😄 Pronouns: He/Him/His
+- 😄 <h2>A Jaipur resident, DOB: 22/12/2002</h2>
 - 🌱 I’m currently learning Python.
 <!-- - 🔭 I’m currently working as a freelancer. 
 - 💬 Ask me about my views on the future of Artificial Intelligence and Cyber Security. 
-- ⚡ Random Fact: I never understood what my music taste is, but everyone I have met vibe with it!    
+- ⚡ Random Fact: Quick learner and socially active.   
 - 👯 I’m looking to collaborate on small projects on AI, ML and Full Stack Web Development -->
 
 
